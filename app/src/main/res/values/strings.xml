@@ -18,12 +18,12 @@
 <resources>
 
     <!-- App -->
-    <string name="app_name">SlimOTA</string>
-    <string name="app_title">SlimOTA</string>
+    <string name="app_name">AtomicOTA</string>
+    <string name="app_title">AtomicOS-OTA</string>
 
     <!-- Categories -->
     <string name="ota_category">OTA</string>
-    <string name="links_category">Links</string>
+    <string name="links_category">Download Links</string>
 
     <!-- ROM info -->
     <string name="latest_version">Latest version: %1$s</string>
@@ -31,10 +31,10 @@
     <string name="system_uptodate">Your system is up to date</string>
 
     <!-- Check update -->
-    <string name="check_update_title">Check update</string>
-    <string name="last_check_summary">Last check: %1$s</string>
+    <string name="check_update_title">Check for update</string>
+    <string name="last_check_summary">Last checked: %1$s</string>
     <string name="last_check_never">Never</string>
-    <string name="check_update_failed">Can\'t check update</string>
+    <string name="check_update_failed">Can\'t check for update</string>
     <string name="no_update_available">No update available</string>
 
     <!-- Update interval -->
