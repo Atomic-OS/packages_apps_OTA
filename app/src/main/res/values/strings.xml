@@ -18,8 +18,8 @@
 <resources>
 
     <!-- App -->
-    <string name="app_name">SlimOTA</string>
-    <string name="app_title">SlimOTA</string>
+    <string name="app_name">aosOTA</string>
+    <string name="app_title">AtomicOS-OTA</string>
 
     <!-- Categories -->
     <string name="ota_category">OTA</string>
