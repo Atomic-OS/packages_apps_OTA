@@ -1,0 +1,10 @@
+#Common OTA url for all devices
+ota_url=https://raw.githubusercontent.com/TeamDarkness-Devices/aos_OTA/master/aosOTA.xml
+release_type=Stable
+device_name=ro.aos.device
+ 
+#example ro.dnd.display.version=Atomic-OS-v1.0-kenzo-20170530-1124-SUPPORTED.zip
+version_source=ro.dnd.display.version
+version_delimiter=-
+version_position=4
+version_format=yyyyMMdd
